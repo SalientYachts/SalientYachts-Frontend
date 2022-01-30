@@ -1,0 +1,96 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  background-color: white;
+}
+
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+article > * + * {
+  margin-top: 1em;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+.ant-table-row .ant-table-cell-row-hover {
+  background-color: #383838 !important;
+  color: #fff;
+}
+.ant-table-tbody {
+  background: #272727;
+  border-bottom: 1px solid #111;
+}
+.ant-table-tbody .ant-table-row .ant-table-cell {
+  background-color: #272727;
+  color: #fff;
+  border-bottom: 1px solid #111;
+}
+.ant-table-thead .ant-table-cell {
+  background-color: #1d1d1d !important;
+  color: #fff;
+  border-bottom: 1px solid #111;
+}
+
+body {
+  background: url("./assets/body-background.7d7d88a8.png") 100% 100% / cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.ant-alert-warning {
+  background-color: #fffbe6;
+  border: 1px solid #ffe58f;
+  max-height: 30px;
+  
+}
+
+.css-1u2mxbp {
+  min-height: 80px !important;
+}
