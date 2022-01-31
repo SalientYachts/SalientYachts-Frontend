@@ -32,7 +32,7 @@ export const networkConfigs = {
     currencyName: "AVAX",
     currencySymbol: "AVAX",
     rpcUrl: "https://api.avax.network/ext/bc/C/rpc",
-    blockExplorerUrl: "https://cchain.explorer.avax.network/",
+    blockExplorerUrl: "https://snowtrace.io/",
   },
   "0xa869": {
     chainId: 43113,

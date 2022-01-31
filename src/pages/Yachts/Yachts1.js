@@ -29,7 +29,7 @@ const Yachts1 = () => {
                 </Fade>
                 <Fade duration="2000">
                     <Typography variant="h5" align="center" className={styles.subHead} sx={{ margin: '2rem 0 2rem' }}>
-                        Starting from US $ 685 000
+                        Starting from US $ 800 000
                     </Typography>
                 </Fade>
                 <Fade duration="2000">

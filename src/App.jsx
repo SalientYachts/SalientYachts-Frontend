@@ -8,7 +8,7 @@ import NFTBalance from "components/NFTBalance";
 import Wallet from "components/Wallet";
 import "antd/dist/antd.css";
 import "./style.css";
-import Ramper from "components/Ramper";
+import Ramper from "components/onramper/Ramper";
 import { SALIENT_YACHT_NFT_ADDR, SALIENT_YACHT_NFT_ABI, SALIENT_YAGHT_STREAM_ABI, CHAINLINK_AVAX_USD_ADDR, CHAINLINK_AGGREGATORV3_INTERFACE_ABI } from "./constants";
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 import NFTTokenIds from "components/NFTTokenIds";

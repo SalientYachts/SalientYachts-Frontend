@@ -4,7 +4,7 @@ export const networkCollections = {
     {
       image:
         "https://lh3.googleusercontent.com/BWCni9INm--eqCK800BbRkL10zGyflxfPwTHt4XphMSWG3XZvPx1JyGdfU9vSor8K046DJg-Q8Y4ioUlWHiCZqgR_L00w4vcbA-w=s0",
-      name: "Normal NFT",
+      name: "Demo NFT1",
       addrs: "0xBC7d93e15a2ba263DFDA8D3046949c9141BACcd2",
     },
     {
@@ -16,7 +16,7 @@ export const networkCollections = {
     {
       image:
         "https://lh3.googleusercontent.com/BWCni9INm--eqCK800BbRkL10zGyflxfPwTHt4XphMSWG3XZvPx1JyGdfU9vSor8K046DJg-Q8Y4ioUlWHiCZqgR_L00w4vcbA-w=s0",
-      name: "Normal NFT old",
+      name: "Demo NFT2",
       addrs: "0x36705404Bdc54a097481968A6D6ccD253436a613",
     },
   ],

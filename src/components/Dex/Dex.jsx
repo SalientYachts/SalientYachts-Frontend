@@ -161,6 +161,9 @@ function Dex({ chain }) {
 
   return (
     <>
+    <div>
+      <h1 style={{color: "#1fc7d3", marginBottom: "30px"}}>Not Available In Demo dApp</h1>
+    </div>
       <Card style={styles.card} bodyStyle={{ padding: "18px" }}>
         <Card
           style={{ borderRadius: "1rem" }}

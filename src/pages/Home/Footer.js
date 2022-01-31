@@ -5,7 +5,7 @@ const Footer = () => {
         <AppBar position='static' sx={{ background: '#111111' }}>
             <Toolbar>
                 <Typography variant='body1' color={grey[50]} align="center" sx={{ width: '100%' }}>
-                    Copyright © 2022 Salient Yachts in Partnership Kaos Catamarans
+                    Copyright © 2022 Salient Yachts
                 </Typography>
             </Toolbar>
         </AppBar>

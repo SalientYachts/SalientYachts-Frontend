@@ -1,4 +1,4 @@
-import { ContactsOutlined } from "@ant-design/icons";
+import SearchCollections from "components/SearchCollections";
 import { useMoralisDapp } from "providers/MoralisDappProvider/MoralisDappProvider";
 import { useEffect, useState } from "react";
 import { useMoralisWeb3Api, useMoralisWeb3ApiCall } from "react-moralis";

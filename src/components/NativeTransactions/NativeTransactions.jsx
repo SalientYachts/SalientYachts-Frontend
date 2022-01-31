@@ -50,7 +50,8 @@ function NativeTransactions() {
             chainId === "0x1" ? `https://etherscan.io/tx/${hash}` :
             chainId === "0x38" ? `https://bscscan.com/tx/${hash}` :
             chainId === "0x89" ? `https://polygonscan.com/tx/${hash}` :
-            `https://explorer.avax.network/search?query=${hash}`
+            chainId === "0xa86a" ? `https://snowtrace.io/tx/${hash}` :
+            `https://testnet.snowtrace.io/tx/${hash}`
           }
           target="_blank"
           rel="noreferrer"

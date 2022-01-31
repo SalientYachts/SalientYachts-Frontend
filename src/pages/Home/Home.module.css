@@ -14,7 +14,7 @@
 }
 .mainContainer {
   min-height: 100vh;
-  max-width: 900px;
+  max-width: 1200px;
   margin: auto;
 }
 .cardPrimary {
@@ -24,6 +24,14 @@
 .cardSecondary {
   width: 20rem;
   margin: 0 1rem 2rem;
+}
+.partner {
+  width: 14rem;
+  margin: 1rem;
+}
+.partner2 {
+  width: 8rem;
+  margin: 1rem;
 }
 .card {
   display: flex;
